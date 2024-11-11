@@ -31,7 +31,11 @@
 - ### [学生优惠](./01-student-discounts/student-discounts.md)
 - ### 圆梦帮扶
 - **奖/助学金申请**
+- **勤工俭学申请**
+- **国家学生无息贷款**
 - ### 生活常识
+- **五险一金**
+- **储蓄与借贷**
 - **保持健康**
 - **出境须知**
 - **入职须知**
@@ -42,7 +46,7 @@
 
 ### 方法论
 
-- **[高效检索信息](./02-search-platforms/search-platforms.md)**
+- **[高效检索信息/获取资源](./02-search-platforms/search-platforms.md)**
 - **学会撰写论文**
 - **计算机基础技能**
 - **运用新质生产力**
@@ -56,6 +60,7 @@
   #### 网络安全
   - **[通讯安全](./03-tools/Android/加密通讯.md)**
   - **[密码管理](./03-tools/cyber%20security/password_manage1.md)**
+  - **[账号安全](./03-tools/cyber%20security/Authenticator.md)**
   #### 校园应用
   - **[风驰电掣](./03-tools/qi-ji-yin-qiao/campus-running.md)**
   - **[珍惜时间](./03-tools/qi-ji-yin-qiao/pointless-courses.md)**
